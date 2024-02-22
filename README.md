@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reyner Mejias</h1>
 <h3 align="center">A passionate software developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on [an upgrade for my project WeatherTek](https://github.com/ReynerMejias/weather-tek-v1)
+- 🔭 I’m currently working on an upgrade for my project [WeatherTek](https://github.com/ReynerMejias/weather-tek-v1)
 
 - 🌱 I’m currently learning **Typescript**
 
