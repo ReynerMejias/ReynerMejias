@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente estoy trabajando en una actualización para mi proyecto [WeatherTek](https://github.com/ReynerMejias/weather-tek-v1)
 
-- 🌱 Estoy aprendiendo actualmente **Typescript**
-
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ReynerMejias?tab=repositories](https://github.com/ReynerMejias?tab=repositories)
 
 - 📫 Puedes contactarme en **reynermejias2003@gmail.com**
