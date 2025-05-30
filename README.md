@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, Soy Reyner Mejías!</h1>
 <h3 align="center">Un Desarrollador Fullstack de Costa Rica</h3>
 
-- 🔭 Actualmente estoy trabajando en una actualización para mi proyecto [WeatherTek](https://github.com/ReynerMejias/weather-tek-v1)
+- 🔭 Actualmente estoy trabajando en mi proyecto [LosMejias]
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ReynerMejias?tab=repositories](https://github.com/ReynerMejias?tab=repositories)
 
